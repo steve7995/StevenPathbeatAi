@@ -1,5 +1,7 @@
 PathBeat Ai assigment 
+
 Backend : Node Js , express Js , mongoDb
+
 Frontend: React js, semantic ui
 
 The below is the home page conatining 20 movies with movie name , image and short description 
